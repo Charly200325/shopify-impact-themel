@@ -12,24 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
+            "heading_tag": "h5"
           }
         },
         "rating": {
@@ -38,32 +24,14 @@
             "show_empty": false
           }
         },
+        "text_GF9NA3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🐾 <strong>Stimule les 5 sens de votre chat</strong> pour des heures de jeu captivant.<br/>🎯 <strong>Réduit l'anxiété et l'ennui</strong> en imitant les comportements naturels des chats.<br/>🧩 <strong>Offre une expérience unique et évolutive</strong> grâce à sa conception modulable.<br/>💪 <strong>Fabriqué avec un matériel ultra résistant et écologique</strong>, le KITTY Meowtix™ est conçu pour supporter les griffes et les morsures</p>"
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
           "settings": {}
         },
         "buy_buttons": {
@@ -79,16 +47,10 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
-        "badges",
-        "price",
         "rating",
+        "text_GF9NA3",
         "payment_terms",
-        "separator",
-        "description",
-        "variant_picker",
-        "quantity_selector",
         "buy_buttons"
       ],
       "settings": {
@@ -108,32 +70,9 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
-    "main",
-    "related-products"
+    "main"
   ]
 }
