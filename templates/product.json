@@ -44,6 +44,12 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_mjza4P": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"footer__payment\">\n  <span class=\"visually-hidden\">Moyens de paiement</span>\n  <ul class=\"list-payment\" role=\"list\">\n    <!-- Visa -->\n    <li class=\"list-payment__item\">\n      <svg class=\"icon-svg\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"visa-title\">\n        <title id=\"visa-title\">Visa</title>\n        <path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path>\n        <path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path>\n        <path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3z\" fill=\"#142688\"></path>\n      </svg>\n    </li>\n\n    <!-- Mastercard -->\n    <li class=\"list-payment__item\">\n      <svg class=\"icon-svg\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"mastercard-title\">\n        <title id=\"mastercard-title\">Mastercard</title>\n        <path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path>\n        <circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle>\n        <circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle>\n        <path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path>\n      </svg>\n    </li>\n\n    <!-- PayPal -->\n    <li class=\"list-payment__item\">\n      <svg class=\"icon-svg\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"paypal-title\">\n        <title id=\"paypal-title\">PayPal</title>\n        <path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path>\n        <path fill=\"#003087\" d=\"M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z\"></path>\n      </svg>\n    </li>\n\n    <!-- Apple Pay -->\n    <li class=\"list-payment__item\">\n      <svg class=\"icon-svg\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"applepay-title\" viewBox=\"0 0 165.521 105.965\">\n        <title id=\"applepay-title\">Apple Pay</title>\n        <path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875\"></path>\n      </svg>\n    </li>\n  </ul>\n</div>\n\n<style>\n.footer__payment {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.list-payment {\n  display: flex;\n  gap: 1rem; /* Spacing between items */\n  padding: 0;\n  margin: 0;\n  list-style: none;\n}\n\n.list-payment__item {\n  display: flex;\n  align-items: center;\n}\n</style>"
+          }
         }
       },
       "block_order": [
@@ -51,7 +57,8 @@
         "rating",
         "text_GF9NA3",
         "payment_terms",
-        "buy_buttons"
+        "buy_buttons",
+        "liquid_mjza4P"
       ],
       "settings": {
         "full_width": true,
