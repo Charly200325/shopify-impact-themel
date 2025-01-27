@@ -289,30 +289,30 @@
     "press": {
       "type": "press",
       "blocks": {
-        "16644243327ba53d2a-0": {
+        "quote_MPagaV": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
             "author": "",
             "content": "C'était génial, mon chat adore!",
-            "show_rating": false,
-            "rating": 4
+            "show_rating": true,
+            "rating": 5
           }
         },
-        "16644243327ba53d2a-1": {
+        "quote_FnUDkm": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Mon chat a adoré! C'est très amusant!",
-            "show_rating": false,
-            "rating": 4
+            "content": "Mon chat à adoré! C'est très amusant!",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
       "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "quote_MPagaV",
+        "quote_FnUDkm"
       ],
       "settings": {
         "full_width": true,
