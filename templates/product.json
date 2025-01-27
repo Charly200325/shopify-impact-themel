@@ -332,71 +332,6 @@
         "text_color": "",
         "text_gradient": ""
       }
-    },
-    "comparaison_list_EYwGmK": {
-      "type": "comparaison-list",
-      "blocks": {
-        "bullet_RGRzxE": {
-          "type": "bullet",
-          "settings": {
-            "title": "Manufactured in France",
-            "icon_before": "check_mark",
-            "icon_after": "close"
-          }
-        },
-        "bullet_KzyBAn": {
-          "type": "bullet",
-          "settings": {
-            "title": "Manufactured in France",
-            "icon_before": "check_mark",
-            "icon_after": "close"
-          }
-        },
-        "bullet_GjPKhj": {
-          "type": "bullet",
-          "settings": {
-            "title": "Manufactured in France",
-            "icon_before": "check_mark",
-            "icon_after": "close"
-          }
-        }
-      },
-      "block_order": [
-        "bullet_RGRzxE",
-        "bullet_KzyBAn",
-        "bullet_GjPKhj"
-      ],
-      "settings": {
-        "section_id": "",
-        "subheading": "Details",
-        "heading": "Hear from our lovely customers",
-        "heading_style": "2",
-        "description": "Show to your customers a video presenting your brand and your products.",
-        "alignment": "left",
-        "accent_table": true,
-        "before": "Before",
-        "after": "After",
-        "enable_animations": true,
-        "animation": "fade-up",
-        "layout_width": "normal",
-        "padding_top": 0,
-        "padding_bottom": 64,
-        "padding_top_sm": 0,
-        "padding_bottom_sm": 32,
-        "color_palette": "",
-        "enable_cut_bg_color": false,
-        "cut_bg_color": "#F6F6F6",
-        "cut_bg_color_vertical": 0,
-        "cut_bg_color_vertical_mobile": 0,
-        "cut_bg_color_horizontal": 0,
-        "cut_bg_color_horizontal_mobile": 0,
-        "separator_top": "none",
-        "separator_top_invert": false,
-        "separator_bottom": "none",
-        "separator_bottom_invert": false,
-        "separator_animated": false,
-        "separator_bg_color": ""
-      }
     }
   },
   "order": [
@@ -409,7 +344,6 @@
     "multiple_images_with_text_zcC6T4",
     "custom_html_MTxtWR",
     "multiple_images_with_text_hAP7ax",
-    "scrolling_text_ADnEYK",
-    "comparaison_list_EYwGmK"
+    "scrolling_text_ADnEYK"
   ]
 }
