@@ -208,90 +208,6 @@
         "text_gradient": ""
       }
     },
-    "media_grid_dFtzFV": {
-      "type": "media-grid",
-      "blocks": {
-        "image_7rKLM6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/c13fe660-08d8-4c9c-bcb4-e7ac528063c5.webp",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_3HVDY9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2-480x480-a1bd150d-8555-4585-a9ae-e390f52ffa65-480x480.webp",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_VearJX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1cb42a71dec949b0a69f0c22a0c4b43d-goods.webp",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_7rKLM6",
-        "image_3HVDY9",
-        "image_VearJX"
-      ],
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
     "multiple_images_with_text_3LMVqh": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -337,71 +253,37 @@
         "text_gradient": ""
       }
     },
-    "hot-spots": {
-      "type": "hot-spots",
+    "shop_the_look_4QdiRH": {
+      "type": "shop-the-look",
       "blocks": {
-        "1664424434f5b7d0e0-0": {
-          "type": "item",
+        "product_xiCMcq": {
+          "type": "product",
           "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-1": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-2": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "product": "magic-organ-cat-toy-cats-scratcher-scratch-board-round-corrugated-scratching-post-toys-for-cats-grinding-claw-cat-accessories-104276623624-tmpac",
+            "horizontal_position": 73,
+            "vertical_position": 74
           }
         }
       },
       "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
+        "product_xiCMcq"
       ],
       "settings": {
         "full_width": true,
+        "stack_mobile": true,
+        "image": "shopify://shop_images/dca41cb1-b886-4261-b923-fbb34774fead_d12c5551-300d-4421-95f6-38ea389a1469.webp",
         "title": "",
         "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "product_card_mobile_background": "",
+        "product_card_mobile_text_color": "",
+        "background_dots": "#FFF"
       }
     },
     "press": {
@@ -504,10 +386,9 @@
     "wave_QmjUBM",
     "featured_product_6G6maL",
     "scrolling-text",
-    "media_grid_dFtzFV",
     "multiple_images_with_text_3LMVqh",
     "scrolling_text_YeFnVr",
-    "hot-spots",
+    "shop_the_look_4QdiRH",
     "press",
     "faq"
   ]
