@@ -18,12 +18,6 @@
             "heading_tag": "h5"
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "text_GF9NA3": {
           "type": "text",
           "settings": {
@@ -60,7 +54,6 @@
       },
       "block_order": [
         "title",
-        "rating",
         "text_GF9NA3",
         "payment_terms",
         "buy_buttons",

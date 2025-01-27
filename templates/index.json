@@ -231,21 +231,6 @@
         "button_text_color": ""
       }
     },
-    "scrolling_text_YeFnVr": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "🎖️ 30 JOURS DE GARANTIE   🚚 LIVRAISON OFFERTE 📞  UN SUPPORT DÉDIÉ, 24H/24, 7J/7",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#ffeff9",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "shop_the_look_4QdiRH": {
       "type": "shop-the-look",
       "blocks": {
@@ -278,6 +263,59 @@
         "product_card_mobile_text_color": "",
         "background_dots": "#ffffff"
       }
+    },
+    "avis_Xtwxj6": {
+      "type": "avis",
+      "blocks": {
+        "review_CRrR9p": {
+          "type": "review",
+          "settings": {
+            "name": "Julie V.",
+            "review_text": "Le crayon 4-en-1 de Shally est devenu mon indispensable beauté.",
+            "rating": 5
+          }
+        },
+        "review_UidCna": {
+          "type": "review",
+          "settings": {
+            "name": "Julie V.",
+            "review_text": "Le crayon 4-en-1 de Shally est devenu mon indispensable beauté.",
+            "rating": 5
+          }
+        },
+        "review_EwNTWD": {
+          "type": "review",
+          "settings": {
+            "name": "Julie V.",
+            "review_text": "Le crayon 4-en-1 de Shally est devenu mon indispensable beauté.",
+            "rating": 5
+          }
+        },
+        "review_MMhjB4": {
+          "type": "review",
+          "settings": {
+            "name": "Julie V.",
+            "review_text": "Le crayon 4-en-1 de Shally est devenu mon indispensable beauté.",
+            "rating": 5
+          }
+        },
+        "review_dKjJ3U": {
+          "type": "review",
+          "settings": {
+            "name": "Julie V.",
+            "review_text": "Le crayon 4-en-1 de Shally est devenu mon indispensable beauté.",
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "review_CRrR9p",
+        "review_UidCna",
+        "review_EwNTWD",
+        "review_MMhjB4",
+        "review_dKjJ3U"
+      ],
+      "settings": {}
     },
     "press": {
       "type": "press",
@@ -318,6 +356,7 @@
         "quote_XzB799",
         "quote_FnUDkm"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -397,6 +436,22 @@
         "accordion_background": "#ffffff",
         "accordion_text_color": ""
       }
+    },
+    "scrolling_text_YeFnVr": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "text": "🎖️ 30 JOURS DE GARANTIE   🚚 LIVRAISON OFFERTE 📞  UN SUPPORT DÉDIÉ, 24H/24, 7J/7",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#ffeff9",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
     }
   },
   "order": [
@@ -407,9 +462,10 @@
     "featured_product_6G6maL",
     "scrolling-text",
     "multiple_images_with_text_3LMVqh",
-    "scrolling_text_YeFnVr",
     "shop_the_look_4QdiRH",
+    "avis_Xtwxj6",
     "press",
-    "faq_tYFGWN"
+    "faq_tYFGWN",
+    "scrolling_text_YeFnVr"
   ]
 }
