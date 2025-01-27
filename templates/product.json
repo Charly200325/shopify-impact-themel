@@ -323,12 +323,12 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "🛡️ GARANTIE 30 JOURS🚚 LIVRAISON GRATUITE📞 SUPPORT 24/7",
+        "text": "🎖️ 30 JOURS DE GARANTIE   🚚 LIVRAISON OFFERTE 📞  UN SUPPORT DÉDIÉ, 24H/24, 7J/7",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
-        "background": "#b98f60",
+        "background": "#ffeff9",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
