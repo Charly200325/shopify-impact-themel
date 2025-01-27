@@ -85,21 +85,6 @@
         "input_text_color": ""
       }
     },
-    "scrolling_text_tKtFcW": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "🤝 UNE MARQUE DÉDIÉE AU BONHEUR DES ANIMAUX🐾 CONÇU AVEC AMOUR PAR DES EXPERTS ET PASSIONNÉS🐱 APPROUVÉ PAR +100 VÉTÉRINAIRES POUR LEUR BIEN-ÊTRE",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "#ffeff9",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "custom_html_6MyfRA": {
       "type": "custom-html",
       "settings": {
@@ -177,7 +162,7 @@
         "background_color": "#ffffff",
         "wave_color": "#ffeff9",
         "margin_top": 0,
-        "margin_bottom": -172,
+        "margin_bottom": -152,
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_horizontal": 0,
@@ -196,6 +181,21 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "scrolling_text_tKtFcW": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "🤝 UNE MARQUE DÉDIÉE AU BONHEUR DES ANIMAUX🐾 CONÇU AVEC AMOUR PAR DES EXPERTS ET PASSIONNÉS🐱 APPROUVÉ PAR +100 VÉTÉRINAIRES POUR LEUR BIEN-ÊTRE",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "#ffeff9",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     },
     "multiple_images_with_text_dKYtrR": {
