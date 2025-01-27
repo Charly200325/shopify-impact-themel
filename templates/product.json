@@ -73,7 +73,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
@@ -84,9 +84,128 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "rich_text_gH6wGk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wDXGHR": {
+          "type": "heading",
+          "settings": {
+            "text": "Le problème que rencontrent de nombreux chats…",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_EPgYrV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Les chats d'intérieur passent souvent des heures seuls, sans stimulation. Résultat ? L'ennui, l'anxiété et des signes de dépression.</p><p>Vos petits compagnons méritent bien plus que des jouets qui finissent oubliés après quelques minutes.</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wDXGHR",
+        "richtext_EPgYrV"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "#b98f60",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "multiple_images_with_text_dKYtrR": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_PPTLVr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/b1c7350b84d64c6dba7df7ad76c4214a.HD-720p-1.6Mbps-29824769-ezgif.com-crop_2.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Bien plus qu’un jouet",
+            "content": "<p>Avec ce jouet innovant, vous allez lui offrir une expérience unique, stimulante et pleine de surprises.</p><p>Conçu pour éveiller ses cinq sens, il stimule la curiosité de votre chat et l'aide à combattre l'ennui, souvent à l'origine de comportements indésirables.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_zqDWda": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Un Jouet Polyvalent et Amusant",
+            "content": "<p>Le jouet combine une piste de balle infinie et une surface à griffer, offrant à votre chat des heures de <strong>divertissement</strong>. </p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_PPTLVr",
+        "item_zqDWda"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "multiple_images_with_text_b8YQkc": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_wkQdxU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3ce3067916086922bfbcab77eb45c3c7umigyvcqpk_2_1_1.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Un jouet qui comprend votre chat",
+            "content": "<p>Les chats sont des créatures fascinantes, et leurs jeux doivent répondre à leurs instincts naturels.</p><p>Ce jouet a été spécialement conçu en étudiant leurs comportements : des endroits sûrs où se cacher, des objets à griffer sous toutes les formes et des défis à relever.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_Qb9aLA": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_wkQdxU",
+        "item_Qb9aLA"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_gH6wGk",
+    "multiple_images_with_text_dKYtrR",
+    "multiple_images_with_text_b8YQkc"
   ]
 }
