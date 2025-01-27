@@ -299,6 +299,16 @@
             "rating": 5
           }
         },
+        "quote_XzB799": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Très bon rapport qualité/prix ! Et les chats en rafole. Franchement, je vous le recommande !!!",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
         "quote_FnUDkm": {
           "type": "quote",
           "settings": {
@@ -312,6 +322,7 @@
       },
       "block_order": [
         "quote_MPagaV",
+        "quote_XzB799",
         "quote_FnUDkm"
       ],
       "settings": {
