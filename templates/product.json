@@ -429,9 +429,9 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
+        "button_background": "#ffeff9",
+        "button_text_color": "#000000",
+        "accordion_background": "#ffffff",
         "accordion_text_color": ""
       }
     },
