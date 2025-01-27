@@ -242,22 +242,10 @@
             "button_url": "",
             "button_text": ""
           }
-        },
-        "item_Qb9aLA": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Un Cadeau Idéal pour Votre Chat",
-            "content": "<p>Il <strong>stimule les chats</strong> tant mentalement que physiquement. Il aide à canaliser leur énergie tout en offrant un <strong>espace pour griffer</strong>, favorisant ainsi un <strong>comportement sain</strong>.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
         }
       },
       "block_order": [
-        "item_wkQdxU",
-        "item_Qb9aLA"
+        "item_wkQdxU"
       ],
       "settings": {
         "full_width": true,
