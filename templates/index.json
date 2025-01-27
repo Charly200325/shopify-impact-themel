@@ -195,7 +195,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
-        "background": "#b98f60",
+        "background": "#ffeff9",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
@@ -240,7 +240,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#b98f60",
+        "background": "#ffeff9",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
@@ -384,17 +384,17 @@
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
-        "button_text": "",
-        "button_url": "",
+        "button_text": "COMMANDER",
+        "button_url": "shopify://products/magic-organ-cat-toy-cats-scratcher-scratch-board-round-corrugated-scratching-post-toys-for-cats-grinding-claw-cat-accessories-104276623624-tmpac",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
+        "button_background": "#ffeff9",
+        "button_text_color": "#000000",
+        "accordion_background": "#ffffff",
         "accordion_text_color": ""
       }
     }
