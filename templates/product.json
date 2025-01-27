@@ -85,13 +85,34 @@
         "input_text_color": ""
       }
     },
+    "wave_BMD9yE": {
+      "type": "WAVE",
+      "settings": {
+        "wave_height": 300,
+        "wave_curvature": 400,
+        "wave_style": "less",
+        "wave_side": "0",
+        "animation": true,
+        "animation_duration": 5,
+        "background_color": "#FFFFFF",
+        "wave_color": "#ffeff9",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120
+      }
+    },
     "rich_text_gH6wGk": {
       "type": "rich-text",
       "blocks": {
         "heading_wDXGHR": {
           "type": "heading",
           "settings": {
-            "text": "Le problème que rencontrent de nombreux chats…",
+            "text": "Le silence qui pèse sur nos compagnons..",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -100,7 +121,7 @@
         "richtext_EPgYrV": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Les chats d'intérieur passent souvent des heures seuls, sans stimulation. Résultat ? L'ennui, l'anxiété et des signes de dépression.</p><p>Vos petits compagnons méritent bien plus que des jouets qui finissent oubliés après quelques minutes.</p><p></p>"
+            "content": "<p>Les chats qui vivent à l’intérieur passent souvent de longues heures sans distraction, ce qui peut entraîner ennui, stress et même des signes de dépression. </p><p>Nos compagnons méritent mieux que des jouets qui les lassent en quelques instants. Offrez-leur une solution pensée pour leur bien-être et leur épanouissement.</p>"
           }
         }
       },
@@ -112,9 +133,30 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#b98f60",
+        "background": "#ffeff9",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
+      }
+    },
+    "wave_XG8Hef": {
+      "type": "WAVE",
+      "settings": {
+        "wave_height": 300,
+        "wave_curvature": 400,
+        "wave_style": "less",
+        "wave_side": "180",
+        "animation": true,
+        "animation_duration": 5,
+        "background_color": "#FFFFFF",
+        "wave_color": "#ffeff9",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120
       }
     },
     "multiple_images_with_text_dKYtrR": {
@@ -131,22 +173,10 @@
             "button_url": "",
             "button_text": ""
           }
-        },
-        "item_zqDWda": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Un Jouet Polyvalent et Amusant",
-            "content": "<p>Le jouet combine une piste de balle infinie et une surface à griffer, offrant à votre chat des heures de <strong>divertissement</strong>. </p>",
-            "button_url": "",
-            "button_text": ""
-          }
         }
       },
       "block_order": [
-        "item_PPTLVr",
-        "item_zqDWda"
+        "item_PPTLVr"
       ],
       "settings": {
         "full_width": true,
@@ -463,7 +493,9 @@
   },
   "order": [
     "main",
+    "wave_BMD9yE",
     "rich_text_gH6wGk",
+    "wave_XG8Hef",
     "multiple_images_with_text_dKYtrR",
     "scrolling_text_tKtFcW",
     "multiple_images_with_text_b8YQkc",
