@@ -95,7 +95,7 @@
         "heading_dfTUXY": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Kitty - Moewtix™ Le jouet interactif mental et physique pour chats",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -104,7 +104,7 @@
         "richtext_zVFFLx": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Offrez à votre chat des heures de divertissement avec ce jouet interactif innovant, conçu pour éveiller ses instincts naturels de chasse et de jeu. Grâce à son design captivant et à ses mouvements imprévisibles, ce jouet garde votre félin actif, heureux et mentalement stimulé. Un moyen idéal pour renforcer le lien avec votre compagnon tout en prenant soin de son bien-être.</p>"
           }
         }
       },
@@ -115,7 +115,7 @@
       ],
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "large",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
@@ -141,6 +141,56 @@
         "padding_horizontal_mobile": 0,
         "full_width": true,
         "content_width": 120
+      }
+    },
+    "featured_product_6G6maL": {
+      "type": "featured-product",
+      "blocks": {
+        "title_KPpVTj": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h5"
+          }
+        },
+        "text_9xNYpJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🐾 <strong>Stimule les 5 sens de votre chat</strong> pour des heures de jeu captivant.<br/>🎯 <strong>Réduit l'anxiété et l'ennui</strong> en imitant les comportements naturels des chats.<br/>🧩 <strong>Offre une expérience unique et évolutive</strong> grâce à sa conception modulable.<br/>💪 <strong>Fabriqué avec un matériel ultra résistant et écologique</strong>, le KITTY Meowtix™ est conçu pour supporter les griffes et les morsures</p>"
+          }
+        },
+        "buy_buttons_6JjVLr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_KPpVTj",
+        "text_9xNYpJ",
+        "buy_buttons_6JjVLr"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "magic-organ-cat-toy-cats-scratcher-scratch-board-round-corrugated-scratching-post-toys-for-cats-grinding-claw-cat-accessories-104276623624-tmpac",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     },
     "slideshow": {
@@ -968,6 +1018,7 @@
     "wave_6FVqbt",
     "rich_text_rQ4bkx",
     "wave_QmjUBM",
+    "featured_product_6G6maL",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
