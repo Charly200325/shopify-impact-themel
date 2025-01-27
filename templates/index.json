@@ -148,7 +148,7 @@
         "text_9xNYpJ": {
           "type": "text",
           "settings": {
-            "text": "<p>🐾 <strong>Stimule les 5 sens de votre chat</strong> pour des heures de jeu captivant.<br/>🎯 <strong>Réduit l'anxiété et l'ennui</strong> en imitant les comportements naturels des chats.<br/>🧩 <strong>Offre une expérience unique et évolutive</strong> grâce à sa conception modulable.<br/>💪 <strong>Fabriqué avec un matériel ultra résistant et écologique</strong>, le KITTY Meowtix™ est conçu pour supporter les griffes et les morsures</p>"
+            "text": "<p>🐾 Éveillez les 5 sens de votre félin pour des heures d'amusement captivant.<br/>🐈 Diminue l'anxiété et la monotonie en reproduisant les comportements instinctifs des chats.<br/>⚡Propose une expérience unique et en constante évolution grâce à son design adaptable. <br/>🍃 Le Pawsy-Meowtix™ est élaboré à partir de matériaux hautement résistants et écologiques, prévu pour résister aux griffures et aux morsures.</p>"
           }
         },
         "buy_buttons_6JjVLr": {
@@ -210,8 +210,8 @@
             "image": "shopify://shop_images/Griffoir_3_240x240_2dc757bb-2d65-4c1a-88de-388026cc618a.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Bien plus qu’un jouet",
-            "content": "<p>Avec ce jouet innovant, vous allez lui offrir une expérience unique, stimulante et pleine de surprises.</p><p>Conçu pour éveiller ses cinq sens, il stimule la curiosité de votre chat et l'aide à combattre l'ennui, souvent à l'origine de comportements indésirables.</p>",
+            "title": "Bien plus qu’un simple jouet",
+            "content": "<p>Ce jouet révolutionnaire promet à votre chat une expérience captivante, interactive et riche en découvertes. Pensé pour éveiller ses sens et titiller sa curiosité naturelle, il l’aide à rester actif et épanoui, tout en réduisant l’ennui, souvent responsable de comportements imprévisibles.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -235,7 +235,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "🛡️ GARANTIE 30 JOURS🚚 LIVRAISON GRATUITE📞 SUPPORT 24/7",
+        "text": "🎖️ 30 JOURS DE GARANTIE   🚚 LIVRAISON OFFERTE 📞  UN SUPPORT DÉDIÉ, 24H/24, 7J/7",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
