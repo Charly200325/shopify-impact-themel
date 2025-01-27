@@ -336,29 +336,29 @@
         "item_CMReb6": {
           "type": "item",
           "settings": {
-            "title": "Combien dois-je en prendre ?",
-            "content": "<p>Si vous avez plusieurs chats ou un compagnon très actif, en acheter 2 ou 3 peut totalement transformer leur environnement. Vous pourrez les connecter pour créer un terrain de jeu encore plus grand et stimulant.</p>"
+            "title": "Combien en prendre pour faire plaisir à votre chat ?",
+            "content": "<p>Si vous vivez avec plusieurs petits explorateurs ou si votre compagnon déborde d’énergie, l’idéal est d’en choisir 2 ou 3. En les combinant, vous créerez un terrain de jeu XXL, interactif et ultra stimulant, parfait pour répondre à leurs besoins d’aventure et de découverte.</p>"
           }
         },
         "item_aPgd6w": {
           "type": "item",
           "settings": {
-            "title": "Est-il sûr pour mon chat ?",
-            "content": "<p>Absolument ! Le jouet est conçu avec des matériaux non toxiques et des surfaces lisses, parfaitement adaptés aux griffes et aux morsures des chats.</p>"
+            "title": "Est-ce sans danger pour mon chat ?",
+            "content": "<p>Absolument ! Ce jouet a été conçu avec soin à partir de matériaux non toxiques et durables. Ses surfaces lisses sont parfaitement adaptées aux griffes et aux mordillements, garantissant des heures de jeu en toute sécurité.</p>"
           }
         },
         "item_YqPpYP": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l'utiliser pour un chat âgé ou en surpoids ?",
-            "content": "<p>Oui, ce jouet est idéal pour stimuler tous les chats, peu importe leur âge ou leur condition physique. Il peut même encourager les chats moins actifs à bouger davantage.</p>"
+            "title": "Convient-il à un chat âgé ou en surpoids ?",
+            "content": "<p>Tout à fait ! Ce jouet est parfait pour stimuler tous les chats, quel que soit leur âge ou leur condition physique. Il est même idéal pour encourager les chats plus calmes ou moins actifs à retrouver le plaisir de bouger et de jouer.</p>"
           }
         },
         "item_KgP9cA": {
           "type": "item",
           "settings": {
-            "title": "Mon chat va-t-il se lasser de ce jouet ?",
-            "content": "<p>Non, ce jouet est conçu pour garder l'intérêt de votre chat pendant longtemps. Avec ses nombreuses fonctionnalités et sa conception unique, il stimule les sens de votre chat, ce qui l'encourage à jouer encore et encore.</p>"
+            "title": "Mon chat risque-t-il de se lasser de ce jouet ?",
+            "content": "<p>Pas du tout ! Ce jouet a été imaginé pour captiver l’attention de votre chat sur la durée. Grâce à ses multiples fonctionnalités et à son design ingénieux, il stimule ses instincts naturels et éveille sa curiosité, lui donnant envie de jouer encore et encore.</p>"
           }
         },
         "item_NFVeVw": {
