@@ -34,7 +34,7 @@
     "text_font": "armata_n4",
     "show_page_transition": true,
     "reduce_drawer_animation": true,
-    "heading_apparition": "split_fade",
+    "heading_apparition": "split_clip",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "checkout_accent_color": "#f0c417",
