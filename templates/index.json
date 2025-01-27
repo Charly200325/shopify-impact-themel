@@ -294,7 +294,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "content": "C'était génial, mon chat adore!",
             "show_rating": false,
             "rating": 4
           }
@@ -304,7 +304,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Or share content about your promotion, offers...",
+            "content": "Mon chat a adoré! C'est très amusant!",
             "show_rating": false,
             "rating": 4
           }
