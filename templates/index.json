@@ -12,12 +12,6 @@
     "image_with_text_overlay_7En898": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_D7BhYB": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
         "heading_fmGfKg": {
           "type": "heading",
           "settings": {
@@ -37,14 +31,13 @@
             "style": "fill",
             "size": "lg",
             "text": "DÉCOUVRIR",
-            "url": "",
-            "background": "",
-            "text_color": ""
+            "url": "shopify://products/magic-organ-cat-toy-cats-scratcher-scratch-board-round-corrugated-scratching-post-toys-for-cats-grinding-claw-cat-accessories-104276623624-tmpac",
+            "background": "#ffeff9",
+            "text_color": "#1a1a1a"
           }
         }
       },
       "block_order": [
-        "subheading_D7BhYB",
         "heading_fmGfKg",
         "richtext_VkC8NK",
         "button_N9tnUR"
@@ -72,7 +65,7 @@
         "animation": true,
         "animation_duration": 5,
         "background_color": "#ffffff",
-        "wave_color": "#b0daeb",
+        "wave_color": "#ffeff9",
         "margin_top": 0,
         "margin_bottom": 0,
         "padding_top": -300,
@@ -89,22 +82,22 @@
         "subheading_BanGyJ": {
           "type": "subheading",
           "settings": {
-            "text": ""
+            "text": "Le jouet interactif mental et physique pour chats"
           }
         },
         "heading_dfTUXY": {
           "type": "heading",
           "settings": {
-            "text": "Kitty - Moewtix™ Le jouet interactif mental et physique pour chats",
+            "text": "Kitty - Moewtix™ ",
             "heading_tag": "h1",
-            "text_color": "",
+            "text_color": "#000000",
             "gradient": ""
           }
         },
         "richtext_zVFFLx": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Offrez à votre chat des heures de divertissement avec ce jouet interactif innovant, conçu pour éveiller ses instincts naturels de chasse et de jeu. Grâce à son design captivant et à ses mouvements imprévisibles, ce jouet garde votre félin actif, heureux et mentalement stimulé. Un moyen idéal pour renforcer le lien avec votre compagnon tout en prenant soin de son bien-être.</p>"
+            "content": "<p><strong>Offrez à votre chat un divertissement captivant avec ce jouet interactif. Conçu pour éveiller ses instincts de chasse, il le garde actif, heureux et stimulé, tout en renforçant votre lien.</strong></p>"
           }
         }
       },
@@ -115,11 +108,11 @@
       ],
       "settings": {
         "full_width": true,
-        "content_width": "large",
+        "content_width": "medium",
         "text_position": "center",
-        "background": "",
+        "background": "#ffeff9",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#1a1a1a"
       }
     },
     "wave_QmjUBM": {
@@ -132,7 +125,7 @@
         "animation": true,
         "animation_duration": 5,
         "background_color": "#ffffff",
-        "wave_color": "#b0daeb",
+        "wave_color": "#ffeff9",
         "margin_top": 0,
         "margin_bottom": 0,
         "padding_top": 0,
@@ -163,7 +156,7 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#b98f60",
+            "atc_button_background": "#ffeff9",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
