@@ -164,11 +164,11 @@
       "settings": {
         "full_width": true,
         "text": "🤝 MARQUE ENGAGÉE POUR LE BIEN-ÊTRE ANIMAL🐾 CRÉÉ PAR UN AMOUREUX DES CHATS🐱 RECOMMANDÉ PAR +100 VÉTÉRINAIRES",
-        "text_size": "small",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
-        "background": "",
+        "background": "#b98f60",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
@@ -324,11 +324,11 @@
       "settings": {
         "full_width": true,
         "text": "🛡️ GARANTIE 30 JOURS🚚 LIVRAISON GRATUITE📞 SUPPORT 24/7",
-        "text_size": "small",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
-        "background": "",
+        "background": "#b98f60",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
