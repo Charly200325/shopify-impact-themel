@@ -283,7 +283,7 @@
         "product_card_text_color": "",
         "product_card_mobile_background": "",
         "product_card_mobile_text_color": "",
-        "background_dots": "#FFF"
+        "background_dots": "#ffffff"
       }
     },
     "press": {
@@ -337,48 +337,64 @@
         "logo_item_border": ""
       }
     },
-    "faq": {
+    "faq_tYFGWN": {
       "type": "faq",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_CMReb6": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Combien dois-je en prendre ?",
+            "content": "<p>Si vous avez plusieurs chats ou un compagnon très actif, en acheter 2 ou 3 peut totalement transformer leur environnement. Vous pourrez les connecter pour créer un terrain de jeu encore plus grand et stimulant.</p>"
           }
         },
-        "166442457738b23caf-1": {
+        "item_aPgd6w": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Est-il sûr pour mon chat ?",
+            "content": "<p>Absolument ! Le jouet est conçu avec des matériaux non toxiques et des surfaces lisses, parfaitement adaptés aux griffes et aux morsures des chats.</p>"
           }
         },
-        "166442457738b23caf-2": {
+        "item_YqPpYP": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Puis-je l'utiliser pour un chat âgé ou en surpoids ?",
+            "content": "<p>Oui, ce jouet est idéal pour stimuler tous les chats, peu importe leur âge ou leur condition physique. Il peut même encourager les chats moins actifs à bouger davantage.</p>"
+          }
+        },
+        "item_KgP9cA": {
+          "type": "item",
+          "settings": {
+            "title": "Mon chat va-t-il se lasser de ce jouet ?",
+            "content": "<p>Non, ce jouet est conçu pour garder l'intérêt de votre chat pendant longtemps. Avec ses nombreuses fonctionnalités et sa conception unique, il stimule les sens de votre chat, ce qui l'encourage à jouer encore et encore.</p>"
+          }
+        },
+        "item_NFVeVw": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si mon chat ne l’aime pas ?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_CMReb6",
+        "item_aPgd6w",
+        "item_YqPpYP",
+        "item_KgP9cA",
+        "item_NFVeVw"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Questions fréquentes",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
+        "text_position": "center",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -401,6 +417,6 @@
     "scrolling_text_YeFnVr",
     "shop_the_look_4QdiRH",
     "press",
-    "faq"
+    "faq_tYFGWN"
   ]
 }
