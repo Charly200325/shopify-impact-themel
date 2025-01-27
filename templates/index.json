@@ -71,16 +71,55 @@
         "wave_side": "0",
         "animation": true,
         "animation_duration": 5,
-        "background_color": "#FFFFFF",
-        "wave_color": "#B0DAEB",
+        "background_color": "#ffffff",
+        "wave_color": "#b0daeb",
         "margin_top": 0,
         "margin_bottom": 0,
-        "padding_top": 0,
+        "padding_top": -300,
         "padding_bottom": 0,
         "padding_horizontal": 0,
         "padding_horizontal_mobile": 0,
         "full_width": true,
         "content_width": 120
+      }
+    },
+    "rich_text_rQ4bkx": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_BanGyJ": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_dfTUXY": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_zVFFLx": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BanGyJ",
+        "heading_dfTUXY",
+        "richtext_zVFFLx"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "wave_QmjUBM": {
@@ -92,8 +131,8 @@
         "wave_side": "180",
         "animation": true,
         "animation_duration": 5,
-        "background_color": "#FFFFFF",
-        "wave_color": "#B0DAEB",
+        "background_color": "#ffffff",
+        "wave_color": "#b0daeb",
         "margin_top": 0,
         "margin_bottom": 0,
         "padding_top": 0,
@@ -927,6 +966,7 @@
   "order": [
     "image_with_text_overlay_7En898",
     "wave_6FVqbt",
+    "rich_text_rQ4bkx",
     "wave_QmjUBM",
     "slideshow",
     "image-link-blocks",
