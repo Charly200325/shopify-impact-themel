@@ -179,8 +179,8 @@
           "settings": {
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Un Cadeau Idéal pour Votre Chat",
+            "content": "<p>Il <strong>stimule les chats</strong> tant mentalement que physiquement. Il aide à canaliser leur énergie tout en offrant un <strong>espace pour griffer</strong>, favorisant ainsi un <strong>comportement sain</strong>.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -200,12 +200,55 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "multiple_images_with_text_DWMTq8": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_HGJ8Br": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/jouet-pour-chat-magic-scratch-le-2eme-gratuit-50466941600074.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Combinez plusieurs Kitty MEOWTIX™",
+            "content": "<p>Combinez plusieurs KITTY MEOWTIX™ avec ses côtés magnétiques pour un espace de jeu encore plus interactif.</p><p>Votre chat pourra explorer, chasser et jouer sans jamais se lasser. Transformez chaque moment en une aventure captivante et adaptée à ses instincts naturels.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_R6KbPz": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Image with text",
+            "content": "<p>Connectez les 2 extrémités qui se collent grâce à un aimant, et c'est prêt pour des heures d'amusement.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_HGJ8Br",
+        "item_R6KbPz"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "rich_text_gH6wGk",
     "multiple_images_with_text_dKYtrR",
-    "multiple_images_with_text_b8YQkc"
+    "multiple_images_with_text_b8YQkc",
+    "multiple_images_with_text_DWMTq8"
   ]
 }
