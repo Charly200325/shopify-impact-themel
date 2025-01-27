@@ -18,10 +18,6 @@
             "heading_tag": "h5"
           }
         },
-        "judge_me_reviews_preview_badge_6jWERm": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -64,7 +60,6 @@
       },
       "block_order": [
         "title",
-        "judge_me_reviews_preview_badge_6jWERm",
         "rating",
         "text_GF9NA3",
         "payment_terms",
@@ -391,8 +386,8 @@
         "title": "Questions fréquentes",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "OBTENEZ LE VOTRE",
         "button_url": "",
         "text_position": "center",
@@ -405,47 +400,6 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
-      }
-    },
-    "17379897479f2e1cca": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_kDyq7g": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_kDyq7g"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
-    "17379897484627e9c7": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
       }
     }
   },
@@ -460,8 +414,6 @@
     "custom_html_MTxtWR",
     "multiple_images_with_text_hAP7ax",
     "scrolling_text_ADnEYK",
-    "faq_9dJFzT",
-    "17379897479f2e1cca",
-    "17379897484627e9c7"
+    "faq_9dJFzT"
   ]
 }
