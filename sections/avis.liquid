@@ -1,0 +1,213 @@
+<div class="reviews">
+  <!-- Titre et sous-titre -->
+  <div class="reviews__header">
+    <p class="subheading">★★★★★ +10 000 CLIENTES SATISFAITES</p>
+    <h2>Ce Que Nos Clients Disent de JawLift™</h2>
+  </div>
+
+  <!-- Slider d'avis -->
+  <div class="reviews__slider">
+    {% for block in section.blocks %}
+    <div class="review-card">
+      <p class="review-name">{{ block.settings.name }}</p>
+      <p class="review-text">{{ block.settings.review_text }}</p>
+      <div class="stars">
+        {% assign rating = block.settings.rating | default: 5 %}
+        {% for star in (1..rating) %}
+        <svg class="icon-star" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="#FFD700">
+          <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.286 3.948a1 1 0 00.95.69h4.15c.969 0 1.371 1.24.588 1.81l-3.36 2.44a1 1 0 00-.364 1.118l1.286 3.947c.3.921-.755 1.688-1.54 1.118L10 13.011l-3.36 2.439c-.784.57-1.838-.197-1.54-1.118l1.286-3.947a1 1 0 00-.364-1.118L2.662 9.375c-.784-.57-.38-1.81.588-1.81h4.15a1 1 0 00.95-.69l1.286-3.948z"></path>
+        </svg>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const slider = document.querySelector(".reviews__slider");
+    let scrollAmount = 0;
+
+    function autoScroll() {
+      if (slider.scrollWidth - slider.clientWidth === scrollAmount) {
+        // Si nous atteignons la fin, revenir au début
+        scrollAmount = 0;
+      } else {
+        // Sinon, continuer à défiler
+        scrollAmount += 400; // Largeur d'une carte d'avis
+      }
+      slider.scrollTo({
+        left: scrollAmount,
+        behavior: "smooth"
+      });
+    }
+
+    // Défilement automatique toutes les 3 secondes
+    setInterval(autoScroll, 3000);
+  });
+</script>
+
+<style>
+/* Styles de base */
+.reviews {
+  background-color: #fde4e6;
+  padding: 40px 0;
+  text-align: center;
+  position: relative;
+}
+.subheading {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+}
+h2 {
+  font-size: 24px;
+  color: #555;
+  margin-bottom: 30px;
+}
+.reviews__slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;  /* Supprime la barre de défilement */
+}
+
+.reviews__slider::-webkit-scrollbar {
+  display: none;  /* Masque la barre de défilement */
+}
+.review-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 0 10px;
+  flex: 0 0 400px;  /* Augmentez la largeur à 500px pour les rendre plus longs */
+  height: 150px;  /* Réduisez encore la hauteur pour les rendre plus courts */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  scroll-snap-align: center;
+}
+.review-card .stars {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.icon-star {
+  width: 20px;
+  height: 20px;
+}
+  /* Styles de base */
+.reviews {
+  background-color: #fde4e6;
+  padding: 40px 0;
+  text-align: center;
+  position: relative;
+}
+.subheading {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+}
+h2 {
+  font-size: 24px;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.reviews__slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;  /* Supprime la barre de défilement */
+  -webkit-overflow-scrolling: touch;  /* Active le défilement fluide sur mobile */
+  padding-bottom: 10px;
+}
+
+.reviews__slider::-webkit-scrollbar {
+  display: none;  /* Masque la barre de défilement */
+}
+
+.review-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 0 10px;
+  flex: 0 0 400px;  /* Augmentez la largeur à 500px pour les rendre plus longs */
+  height: 150px;  /* Réduisez encore la hauteur pour les rendre plus courts */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  scroll-snap-align: center;
+  transition: transform 0.3s ease-in-out;  /* Animation fluide au défilement */
+}
+
+.review-card .stars {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.icon-star {
+  width: 20px;
+  height: 20px;
+}
+
+/* Styles spécifiques aux mobiles et tablettes */
+@media (max-width: 768px) {
+  .reviews__slider {
+    padding: 10px;
+  }
+
+  .review-card {
+    flex: 0 0 90%;  /* Laisser plus de place pour les avis */
+    margin: 0 5px;
+  }
+}
+
+/* Ajouter des styles pour améliorer le défilement au doigt sur les téléphones */
+@media (max-width: 768px) {
+  .reviews__slider {
+    -webkit-overflow-scrolling: touch;  /* Assure une meilleure fluidité du défilement au doigt */
+  }
+}
+
+</style>
+
+<!-- Configuration Schema -->
+{% schema %}
+{
+  "name": "Section Avis",
+  "settings": [],
+  "blocks": [
+    {
+      "type": "review",
+      "name": "Avis",
+      "settings": [
+        {
+          "type": "text",
+          "id": "name",
+          "label": "Nom du client",
+          "default": "Julie V."
+        },
+        {
+          "type": "textarea",
+          "id": "review_text",
+          "label": "Avis du client",
+          "default": "Le crayon 4-en-1 de Shally est devenu mon indispensable beauté."
+        },
+        {
+          "type": "range",
+          "id": "rating",
+          "label": "Note (1-5)",
+          "default": 5,
+          "min": 1,
+          "max": 5
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Section Avis",
+      "category": "Custom"
+    }
+  ]
+}
+  
+{% endschema %}
