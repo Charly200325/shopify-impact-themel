@@ -333,6 +333,74 @@
         "text_color": "",
         "text_gradient": ""
       }
+    },
+    "faq_9dJFzT": {
+      "type": "faq",
+      "blocks": {
+        "item_Hk7mix": {
+          "type": "item",
+          "settings": {
+            "title": "Combien dois-je en prendre ?",
+            "content": "<p>Si vous avez plusieurs chats ou un compagnon très actif, en acheter 2 ou 3 peut totalement transformer leur environnement. Vous pourrez les connecter pour créer un terrain de jeu encore plus grand et stimulant.</p>"
+          }
+        },
+        "item_BcmaxD": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il sûr pour mon chat ?",
+            "content": "<p>Absolument ! Le jouet est conçu avec des matériaux non toxiques et des surfaces lisses, parfaitement adaptés aux griffes et aux morsures des chats.</p>"
+          }
+        },
+        "item_dDDWqr": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser pour un chat âgé ou en surpoids ?",
+            "content": "<p>Oui, ce jouet est idéal pour stimuler tous les chats, peu importe leur âge ou leur condition physique. Il peut même encourager les chats moins actifs à bouger davantage.</p>"
+          }
+        },
+        "item_M7pNUW": {
+          "type": "item",
+          "settings": {
+            "title": "Mon chat va-t-il se lasser de ce jouet ?",
+            "content": "<p>Non, ce jouet est conçu pour garder l'intérêt de votre chat pendant longtemps. Avec ses nombreuses fonctionnalités et sa conception unique, il stimule les sens de votre chat, ce qui l'encourage à jouer encore et encore.</p>"
+          }
+        },
+        "item_bATUeL": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si mon chat ne l’aime pas ?",
+            "content": "<p>Pas d’inquiétude ! Grâce à notre garantie 100% satisfait ou remboursé, vous pourrez être intégralement remboursé.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Hk7mix",
+        "item_BcmaxD",
+        "item_dDDWqr",
+        "item_M7pNUW",
+        "item_bATUeL"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Questions fréquentes",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -345,6 +413,7 @@
     "multiple_images_with_text_zcC6T4",
     "custom_html_MTxtWR",
     "multiple_images_with_text_hAP7ax",
-    "scrolling_text_ADnEYK"
+    "scrolling_text_ADnEYK",
+    "faq_9dJFzT"
   ]
 }
