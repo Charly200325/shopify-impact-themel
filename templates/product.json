@@ -126,8 +126,8 @@
             "image": "shopify://shop_images/b1c7350b84d64c6dba7df7ad76c4214a.HD-720p-1.6Mbps-29824769-ezgif.com-crop_2.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Bien plus qu’un jouet",
-            "content": "<p>Avec ce jouet innovant, vous allez lui offrir une expérience unique, stimulante et pleine de surprises.</p><p>Conçu pour éveiller ses cinq sens, il stimule la curiosité de votre chat et l'aide à combattre l'ennui, souvent à l'origine de comportements indésirables.</p>",
+            "title": "Bien plus qu’un simple jouet",
+            "content": "<p>Ce jouet révolutionnaire promet à votre chat une expérience captivante, interactive et riche en découvertes.</p><p> Pensé pour éveiller ses sens et titiller sa curiosité naturelle, il l’aide à rester actif et épanoui, tout en réduisant l’ennui, souvent responsable de comportements imprévisibles.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -364,7 +364,7 @@
         "product_card_text_color": "",
         "product_card_mobile_background": "",
         "product_card_mobile_text_color": "",
-        "background_dots": "#FFF"
+        "background_dots": "#ffffff"
       }
     },
     "faq_9dJFzT": {
