@@ -18,6 +18,10 @@
             "heading_tag": "h5"
           }
         },
+        "judge_me_reviews_preview_badge_6jWERm": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -60,6 +64,7 @@
       },
       "block_order": [
         "title",
+        "judge_me_reviews_preview_badge_6jWERm",
         "rating",
         "text_GF9NA3",
         "payment_terms",
