@@ -93,6 +93,13 @@
             "content": "<p>Plongez dans un nuage de confort avec notre produit qui allie <strong>douceur et moelleux</strong> <strong>extrême</strong>. Chaque touche de ce tapis est conçue pour offrir une sensation agréable sous vos pieds, grâce à sa <strong>technologie de</strong> <strong>mémoire de forme</strong>, il transforme chaque pas en une expérience luxueuse. Idéal pour détendre vos sens après une longue journée.<br/><br/><br/>Plongez dans un nuage de confort avec notre produit qui allie douceur et moelleux extrême. Chaque fibre de ce tapis est conçue pour offrir une sensation agréable sous vos pieds. Grâce à sa technologie de mémoire de forme, il transforme chaque pas en une expérience luxueuse, en épousant parfaitement la forme de vos pieds. Idéal pour détendre vos sens après une longue journée.<br/><br/></p>"
           }
         },
+        "collapsible_text_gGFxrN": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "CARACTÉRISTIQUES",
+            "content": "<p><strong>Épaisseur : </strong>2,3cm</p><p><strong>Dimensions & Poids : <br/></strong>40x60cm = 310g<br/>50x80cm = 550g<br/>50x120cm = 880g</p>"
+          }
+        },
         "collapsible_text_ycqL8Y": {
           "type": "collapsible_text",
           "settings": {
@@ -134,6 +141,7 @@
         "collapsible_text_pwL7Ky",
         "collapsible_text_HJrzd3",
         "collapsible_text_7YHhYH",
+        "collapsible_text_gGFxrN",
         "collapsible_text_ycqL8Y",
         "collapsible_text_HnGjCJ",
         "liquid_tTMMCL",
