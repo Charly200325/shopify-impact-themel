@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_gkQzUn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product__content--block\" style=\"margin-bottom: 0.0rem;\">\n              \n\n\n  <meta charset=\"UTF-8\">\n  <title>Trustpilot Badge</title>\n  <style>\n    .trustpilot-container {\n      display: flex;\n      flex-direction: column; /* Permet d’empiler l’image et le texte */\n      align-items: center;    /* Centre horizontalement */\n      margin: 10px 0;        /* Marge pour aérer */\n    }\n    .trustpilot-container img {\n      width: 200px;  /* Ajustez la taille selon vos préférences */\n      height: auto;  \n      display: block;\n    }\n    .trustpilot-text {\n      text-align: center;\n      font-size: 16px;\n      margin-top: 5px;  /* Espace entre l’image et le texte */\n    }\n  </style>\n\n\n\n<div class=\"trustpilot-container\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0620/9807/9791/files/trustpilot-desktop.png?v=1741259234\" alt=\"Trustpilot\">\n  <p class=\"trustpilot-text\">4.9/5 sur 21.368 clients</p>\n</div>\n\n\n\n            </div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -53,6 +59,7 @@
         }
       },
       "block_order": [
+        "liquid_gkQzUn",
         "title",
         "text_GF9NA3",
         "payment_terms",
@@ -198,7 +205,6 @@
         "item_PPTLVr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/b1c7350b84d64c6dba7df7ad76c4214a.HD-720p-1.6Mbps-29824769-ezgif.com-crop_2.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Bien plus qu’un simple jouet",
@@ -228,7 +234,6 @@
         "item_wkQdxU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3ce3067916086922bfbcab77eb45c3c7umigyvcqpk_2_1_1.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Un jouet qui parle à l’instinct de votre chat",
@@ -258,7 +263,6 @@
         "item_HGJ8Br": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/jouet-pour-chat-magic-scratch-le-2eme-gratuit-50466941600074.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Combinez plusieurs Pawsy-MEOWTIX™",
@@ -288,7 +292,6 @@
         "item_E6pMMt": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Snaptik.app_74361897221138547621-ezgif.com-video-to-gif-converter_1.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Un instant privilégié avec votre chat",
@@ -330,7 +333,6 @@
         "item_iMHFnC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ezgif.com-gif-maker_17_480x480_7ce07380-7941-4e77-b13a-9f7d2e63d6c3.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Sauvez vos meubles et votre canapé",
@@ -400,7 +402,6 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "image": "shopify://shop_images/dca41cb1-b886-4261-b923-fbb34774fead.webp",
         "title": "",
         "content": "",
         "background": "",
@@ -485,15 +486,6 @@
     },
     "1737990845d8d60cda": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_fBPr7p": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_fBPr7p"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
