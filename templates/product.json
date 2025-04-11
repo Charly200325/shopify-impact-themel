@@ -21,13 +21,13 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h5"
+            "heading_tag": "h3"
           }
         },
-        "text_GF9NA3": {
-          "type": "text",
+        "liquid_BMxPAi": {
+          "type": "liquid",
           "settings": {
-            "text": "<p>🐈 Éveillez les 5 sens de votre félin pour des heures d'amusement captivant.<br/>🐾 Diminue l'anxiété et la monotonie en reproduisant les comportements instinctifs des chats.<br/>⚡Propose une expérience unique et en constante évolution grâce à son design adaptable.<br/>🍃 Le Pawsy-Meowtix™ est élaboré à partir de matériaux hautement résistants et écologiques, prévu pour résister aux griffures et aux morsures.</p>"
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"text_9xB6gg\" data-block-type=\"text\"><style>\n              [data-block-id=\"text_9xB6gg\"] .prose {\n                text-align: center\n              }\n            </style>\n            <div class=\"product-info__text\">\n              <div class=\"prose\"><p>L'authentique tapis de bain galet fabriqué avec passion au coeur de notre atelier, sa douceur et son moelleux vont vous faire craquer. Un bonheur sous les pieds au quotidien dont vous ne pourrez plus vous passer.</p></div>\n            </div></div>"
           }
         },
         "payment_terms": {
@@ -61,7 +61,7 @@
       "block_order": [
         "liquid_gkQzUn",
         "title",
-        "text_GF9NA3",
+        "liquid_BMxPAi",
         "payment_terms",
         "buy_buttons",
         "liquid_mjza4P",
