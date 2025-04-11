@@ -93,6 +93,13 @@
             "content": "<p>Plongez dans un nuage de confort avec notre produit qui allie <strong>douceur et moelleux</strong> <strong>extrême</strong>. Chaque touche de ce tapis est conçue pour offrir une sensation agréable sous vos pieds, grâce à sa <strong>technologie de</strong> <strong>mémoire de forme</strong>, il transforme chaque pas en une expérience luxueuse. Idéal pour détendre vos sens après une longue journée.<br/><br/><br/>Plongez dans un nuage de confort avec notre produit qui allie douceur et moelleux extrême. Chaque fibre de ce tapis est conçue pour offrir une sensation agréable sous vos pieds. Grâce à sa technologie de mémoire de forme, il transforme chaque pas en une expérience luxueuse, en épousant parfaitement la forme de vos pieds. Idéal pour détendre vos sens après une longue journée.<br/><br/></p>"
           }
         },
+        "collapsible_text_ycqL8Y": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "ENTRETIEN FACILE",
+            "content": "<h3><strong>Peut-on laver le tapis en machine ?</strong></h3><p><strong>Oui, notre tapis de bain galet antibactérien est lavable en machine.</strong><br/><br/>Pour préserver sa qualité, nous vous recommandons un <strong>lavage à froid </strong>ou à <strong>30 °C</strong>, en cycle délicat, sans essorage trop fort.<br/><br/>Utilisez une <strong>lessive douce</strong>,<strong> sans javel</strong> <strong>ni adoucissant</strong>, afin de ne pas altérer les fibres ni ses propriétés antibactériennes.<br/><br/>Après le lavage, laissez-le sécher à plat à l’air libre. <strong>Évitez le sèche-linge</strong>, qui pourrait comprimer le moelleux ou déformer la structure du tapis.</p><h3><strong>Comment préserver sa douceur et son moelleux ?</strong></h3><p>Un <strong>entretien régulier et attentionné</strong> vous permettra de<strong> maintenir la douceur et le moelleux </strong>des galets de votre tapis Elvynor encore plus longtemps.<br/><br/>En suivant ces quelques recommandations simples, <strong>vous profiterez durablement des bienfaits de votre tapis ultra-absorbant & antidérapant </strong>— pour un confort quotidien, comme au premier jour.</p>"
+          }
+        },
         "liquid_tTMMCL": {
           "type": "liquid",
           "settings": {
@@ -120,6 +127,7 @@
         "collapsible_text_pwL7Ky",
         "collapsible_text_HJrzd3",
         "collapsible_text_7YHhYH",
+        "collapsible_text_ycqL8Y",
         "liquid_tTMMCL",
         "liquid_6McbDb"
       ],
