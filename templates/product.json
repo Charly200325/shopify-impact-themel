@@ -68,8 +68,22 @@
         "collapsible_text_Uc7wbY": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Sécurité Antidérapante",
+            "content": "<p>Avec notre technologie avvancée antidérapante, <strong>marchez en toute confiance</strong>. Notre tapis assure une stabilité sans faille pour protéger chaque membre de la famille des glissades.</p>"
+          }
+        },
+        "collapsible_text_pwL7Ky": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Confort Ultra-Absorbant",
+            "content": "<p><strong>Dites adieu aux sols mouillés</strong>. Notre tapis capture rapidement l'eau, gardant vos pieds au sec et votre sol impeccable.</p>"
+          }
+        },
+        "collapsible_text_HJrzd3": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Séchage rapide",
+            "content": "<p>La praticité rencontre le style. Non seulement notre tapis est un havre de douceur sous vos pieds, mais il se distingue aussi par <strong>sa capacité à sécher très rapidement</strong>, vous assurant une salle de bain toujours fraîche et accueillante.</p>"
           }
         },
         "liquid_tTMMCL": {
@@ -96,6 +110,8 @@
         "liquid_mjza4P",
         "collapsible_text_7LCCbN",
         "collapsible_text_Uc7wbY",
+        "collapsible_text_pwL7Ky",
+        "collapsible_text_HJrzd3",
         "liquid_tTMMCL",
         "liquid_6McbDb"
       ],
