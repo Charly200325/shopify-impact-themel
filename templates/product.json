@@ -184,6 +184,7 @@
     },
     "custom_liquid_btrkcc": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
