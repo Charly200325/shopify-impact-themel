@@ -95,6 +95,7 @@
         },
         "collapsible_text_gGFxrN": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "CARACTÉRISTIQUES",
             "content": "<p><strong>Épaisseur : </strong>2,3cm</p><p><strong>Dimensions & Poids : <br/></strong>40x60cm = 310g<br/>50x80cm = 550g<br/>50x120cm = 880g</p>"
