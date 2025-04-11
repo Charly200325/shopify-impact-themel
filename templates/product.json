@@ -100,6 +100,13 @@
             "content": "<h3><strong>Peut-on laver le tapis en machine ?</strong></h3><p><strong>Oui, notre tapis de bain galet antibactérien est lavable en machine.</strong><br/><br/>Pour préserver sa qualité, nous vous recommandons un <strong>lavage à froid </strong>ou à <strong>30 °C</strong>, en cycle délicat, sans essorage trop fort.<br/><br/>Utilisez une <strong>lessive douce</strong>,<strong> sans javel</strong> <strong>ni adoucissant</strong>, afin de ne pas altérer les fibres ni ses propriétés antibactériennes.<br/><br/>Après le lavage, laissez-le sécher à plat à l’air libre. <strong>Évitez le sèche-linge</strong>, qui pourrait comprimer le moelleux ou déformer la structure du tapis.</p><h3><strong>Comment préserver sa douceur et son moelleux ?</strong></h3><p>Un <strong>entretien régulier et attentionné</strong> vous permettra de<strong> maintenir la douceur et le moelleux </strong>des galets de votre tapis Elvynor encore plus longtemps.<br/><br/>En suivant ces quelques recommandations simples, <strong>vous profiterez durablement des bienfaits de votre tapis ultra-absorbant & antidérapant </strong>— pour un confort quotidien, comme au premier jour.</p>"
           }
         },
+        "collapsible_text_HnGjCJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "LIVRAISON & RETOURS",
+            "content": "<h4>LIVRAISON GRATUITE EN SUISSE<br/></h4><p>Profitez de la <strong>livraison à domicile gratuite</strong>, sans minimum d’achat. Votre commande est expédiée sous<strong> 1 à 2 jours ouvrables.</strong><br/></p><h4>RETOURS</h4><p><strong>Commandez en toute sérénité</strong> : vous disposez de <strong>30 jours après la livraison</strong> pour l'essayer gratuitement chez vous. S’il ne vous convient pas, nous vous remboursons, sans poser de questions - garantie 100% satisfait ou remboursé.</p>"
+          }
+        },
         "liquid_tTMMCL": {
           "type": "liquid",
           "settings": {
@@ -128,6 +135,7 @@
         "collapsible_text_HJrzd3",
         "collapsible_text_7YHhYH",
         "collapsible_text_ycqL8Y",
+        "collapsible_text_HnGjCJ",
         "liquid_tTMMCL",
         "liquid_6McbDb"
       ],
