@@ -86,6 +86,13 @@
             "content": "<p>La praticité rencontre le style. Non seulement notre tapis est un havre de douceur sous vos pieds, mais il se distingue aussi par <strong>sa capacité à sécher très rapidement</strong>, vous assurant une salle de bain toujours fraîche et accueillante.</p>"
           }
         },
+        "collapsible_text_7YHhYH": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Douceur & Moelleux Extrême",
+            "content": "<p>Plongez dans un nuage de confort avec notre produit qui allie <strong>douceur et moelleux extrême</strong>. Chaque fibre de ce tapis est conçue pour offrir une sensation agréable sous vos pieds. Grâce à sa <strong>technologie de mémoire de forme,</strong> il transforme chaque pas en une expérience luxueuse, en épousant parfaitement la forme de vos pieds. Idéal pour détendre vos sens après une longue journée.<br/><br/></p>"
+          }
+        },
         "liquid_tTMMCL": {
           "type": "liquid",
           "settings": {
@@ -112,6 +119,7 @@
         "collapsible_text_Uc7wbY",
         "collapsible_text_pwL7Ky",
         "collapsible_text_HJrzd3",
+        "collapsible_text_7YHhYH",
         "liquid_tTMMCL",
         "liquid_6McbDb"
       ],
