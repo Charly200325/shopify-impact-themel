@@ -224,90 +224,37 @@
         "text_color": ""
       }
     },
-    "custom_html_6MyfRA": {
-      "type": "custom-html",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "wave_BMD9yE": {
-      "type": "WAVE",
-      "settings": {
-        "wave_height": 300,
-        "wave_curvature": 400,
-        "wave_style": "less",
-        "wave_side": "0",
-        "animation": true,
-        "animation_duration": 5,
-        "background_color": "#ffffff",
-        "wave_color": "#ffeff9",
-        "margin_top": -52,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120
-      }
-    },
-    "rich_text_gH6wGk": {
-      "type": "rich-text",
+    "media_with_text_JQVViJ": {
+      "type": "media-with-text",
       "blocks": {
-        "heading_wDXGHR": {
-          "type": "heading",
+        "image_XKe89y": {
+          "type": "image",
           "settings": {
-            "text": "Le silence qui pèse sur nos compagnons..",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_EPgYrV": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Les chats qui vivent à l’intérieur passent souvent de longues heures sans distraction, ce qui peut entraîner ennui, stress et même des signes de dépression. </p><p>Nos compagnons méritent mieux que des jouets qui les lassent en quelques instants. Offrez-leur une solution pensée pour leur bien-être et leur épanouissement.</p>"
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "heading_wDXGHR",
-        "richtext_EPgYrV"
+        "image_XKe89y"
       ],
       "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "#ffeff9",
-        "background_gradient": "",
-        "text_color": "#000000"
-      }
-    },
-    "wave_XG8Hef": {
-      "type": "WAVE",
-      "settings": {
-        "wave_height": 300,
-        "wave_curvature": 400,
-        "wave_style": "less",
-        "wave_side": "180",
-        "animation": true,
-        "animation_duration": 5,
-        "background_color": "#ffffff",
-        "wave_color": "#ffeff9",
-        "margin_top": 0,
-        "margin_bottom": -152,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "multiple_images_with_text_dKYtrR": {
@@ -329,8 +276,8 @@
         "item_PPTLVr"
       ],
       "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
+        "full_width": false,
+        "images_layout": "collage",
         "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
@@ -618,10 +565,7 @@
     "custom_liquid_btrkcc",
     "scrolling_text_tKtFcW",
     "custom_html_zhTgtC",
-    "custom_html_6MyfRA",
-    "wave_BMD9yE",
-    "rich_text_gH6wGk",
-    "wave_XG8Hef",
+    "media_with_text_JQVViJ",
     "multiple_images_with_text_dKYtrR",
     "multiple_images_with_text_b8YQkc",
     "multiple_images_with_text_DWMTq8",
