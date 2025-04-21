@@ -141,5 +141,12 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* Corrige les marges/paddings indésirables */.section.section--tight.section-blends.section-full {padding: 0 !important; margin: 0 auto !important; max-width: 100% !important; overflow: hidden !important;}",
+      "/* Supprime l'espace blanc sous le texte */.section.section--tight.section-blends.section-full p {margin-bottom: 0 !important;}",
+      "/* Évite le scroll horizontal global */body {overflow-x: hidden !important;}"
+    ]
   }
 }

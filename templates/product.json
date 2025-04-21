@@ -184,6 +184,7 @@
     },
     "scrolling_text_JpaiDy": {
       "type": "scrolling-text",
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "text": "★★★★★ 4.8/5 avis positifs sur notre tapis de bain",
