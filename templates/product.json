@@ -182,16 +182,52 @@
         "text_color": ""
       }
     },
-    "custom_html_4f6X9n": {
-      "type": "custom-html",
+    "scrolling_text_JpaiDy": {
+      "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<p style=\"text-align: center\">Write or copy/paste HTML code</p>",
+        "text": "★★★★★ 4.8/5 avis positifs sur notre tapis de bain",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "media_with_text_pdHfEP": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_4PNBXW": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_4PNBXW"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
       }
     },
     "custom_liquid_btrkcc": {
@@ -541,7 +577,8 @@
   "order": [
     "main",
     "custom_liquid_wQ7Yqi",
-    "custom_html_4f6X9n",
+    "scrolling_text_JpaiDy",
+    "media_with_text_pdHfEP",
     "custom_liquid_btrkcc",
     "scrolling_text_tKtFcW",
     "custom_html_zhTgtC",
