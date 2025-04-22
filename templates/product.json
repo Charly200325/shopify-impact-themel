@@ -506,13 +506,13 @@
         "spacing": "none"
       }
     },
-    "custom_liquid_FULykf": {
-      "type": "custom-liquid",
+    "custom_html_6FmHga": {
+      "type": "custom-html",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<section class=\"trustpilot-section\">\n  <div class=\"trustpilot-header\">\n    <h2>Excellent <span class=\"stars\">★★★★★</span></h2>\n    <p>\n      Une note de 4.8 sur 5 sur la base de 952 avis sur \n      <img src=\"https://upload.wikimedia.org/wikipedia/commons/6/61/Trustpilot_logo.png\" alt=\"Trustpilot\" class=\"trustpilot-logo\">\n    </p>\n  </div>\n\n  <div class=\"trustpilot-carousel\">\n    <div class=\"trustpilot-reviews\">\n      {% for i in (1..12) %}\n      <div class=\"trustpilot-card\">\n        <div class=\"trustpilot-stars\">★★★★★</div>\n        <p class=\"trustpilot-name\">Client Anonyme</p>\n        <p class=\"trustpilot-title\">Superbe qualité</p>\n        <p class=\"trustpilot-content\">Très bonne qualité, moelleux et agréable. Je recommande vivement !</p>\n      </div>\n      {% endfor %}\n    </div>\n  </div>\n</section>\n\n<style>\n.trustpilot-section {\n  max-width: 100%;\n  padding: 2rem;\n  background: #f9f9f9;\n  font-family: 'Helvetica Neue', sans-serif;\n}\n\n.trustpilot-header {\n  text-align: center;\n  margin-bottom: 1.5rem;\n}\n\n.trustpilot-header h2 {\n  font-size: 1.75rem;\n  font-weight: 600;\n  margin-bottom: 0.5rem;\n}\n\n.trustpilot-header .stars {\n  color: #00b67a;\n  font-size: 1.5rem;\n  vertical-align: middle;\n}\n\n.trustpilot-logo {\n  height: 1rem;\n  vertical-align: text-bottom;\n  margin-left: 4px;\n}\n\n.trustpilot-carousel {\n  overflow-x: auto;\n  white-space: nowrap;\n  -webkit-overflow-scrolling: touch;\n  padding-bottom: 1rem;\n}\n\n.trustpilot-reviews {\n  display: inline-flex;\n  gap: 1rem;\n}\n\n.trustpilot-card {\n  flex: 0 0 280px;\n  background: white;\n  border-radius: 12px;\n  padding: 1rem;\n  box-shadow: 0 2px 8px rgba(0,0,0,0.08);\n  text-align: left;\n}\n\n.trustpilot-stars {\n  color: #00b67a;\n  font-size: 1.25rem;\n  margin-bottom: 0.5rem;\n}\n\n.trustpilot-name {\n  font-weight: bold;\n  margin-bottom: 0.25rem;\n}\n\n.trustpilot-title {\n  font-weight: 600;\n  margin-bottom: 0.25rem;\n}\n\n.trustpilot-content {\n  font-size: 0.95rem;\n  color: #333;\n}\n</style>",
+        "html": "<p style=\"text-align: center\">Write or copy/paste HTML code</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -717,7 +717,7 @@
     "before_after_image_4JFaPD",
     "text_with_icons_VRKhzR",
     "media_with_text_UG4hrr",
-    "custom_liquid_FULykf",
+    "custom_html_6FmHga",
     "scrolling_text_tKtFcW",
     "custom_html_zhTgtC",
     "custom_html_KCtkMm",
