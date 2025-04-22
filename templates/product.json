@@ -201,9 +201,13 @@
     "media_with_text_pdHfEP": {
       "type": "media-with-text",
       "blocks": {
-        "image_4PNBXW": {
-          "type": "image",
+        "video_imNKeG": {
+          "type": "video",
           "settings": {
+            "video": "shopify://files/videos/0422 (1)(1).mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "poster_image": "shopify://shop_images/Capture_d_ecran_2025-04-22_163818.png",
+            "autoplay": true,
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -224,7 +228,7 @@
         }
       },
       "block_order": [
-        "image_4PNBXW"
+        "video_imNKeG"
       ],
       "settings": {
         "full_width": true,
