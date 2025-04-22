@@ -297,13 +297,39 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "video_QawB3k": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/0422 (2)(2).mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "poster_image": "shopify://shop_images/Capture_d_ecran_2025-04-22_163818.png",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "LAVAGE RAPIDE & EFFICACE",
+            "title": "EN MACHINE",
+            "content": "<p>Notre tapis de bain n’est pas seulement un symbole de confort et de sécurité — il est aussi pensé pour vous simplifier la vie.<br/>Conçu pour suivre le rythme de votre quotidien, il est entièrement lavable en machine. Après chaque lavage, votre tapis ressortira comme neuf, prêt à vous offrir douceur et sécurité.<br/></p>",
+            "link_text": "COMMANDER MAINTENANT",
+            "link_url": "shopify://products/3d-non-slip-bathroom-mat-bath-mats-absorbent-doormat-carpet-cobblestone-embossed-door-floor-mats-machine-washable-quick-drying-104281637131-bl80l",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "video_imNKeG",
         "video_66QYVR",
         "video_QVrmKR",
-        "image_aDtYw3"
+        "image_aDtYw3",
+        "video_QawB3k"
       ],
       "settings": {
         "full_width": true,
