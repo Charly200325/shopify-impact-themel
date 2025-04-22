@@ -184,6 +184,7 @@
     },
     "scrolling_text_JpaiDy": {
       "type": "scrolling-text",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "full_width": true,
@@ -336,6 +337,67 @@
         "spacing": "none"
       }
     },
+    "slideshow_AtEyNH": {
+      "type": "slideshow",
+      "blocks": {
+        "image_rJg9qT": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rJg9qT"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "before_after_image_4JFaPD": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "",
+        "after_text": "",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "custom_liquid_btrkcc": {
       "type": "custom-liquid",
       "disabled": true,
@@ -376,122 +438,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "multiple_images_with_text_dKYtrR": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_PPTLVr": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Bien plus qu’un simple jouet",
-            "content": "<p>Ce jouet révolutionnaire promet à votre chat une expérience captivante, interactive et riche en découvertes.</p><p> Pensé pour éveiller ses sens et titiller sa curiosité naturelle, il l’aide à rester actif et épanoui, tout en réduisant l’ennui, souvent responsable de comportements imprévisibles.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_PPTLVr"
-      ],
-      "settings": {
-        "full_width": false,
-        "images_layout": "collage",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "multiple_images_with_text_b8YQkc": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_wkQdxU": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Un jouet qui parle à l’instinct de votre chat",
-            "content": "<p>Les chats sont de véritables merveilles de la nature, et leurs jeux doivent nourrir leur curiosité et leurs instincts naturels.</p><p> Ce jouet a été soigneusement pensé en observant leur comportement : des cachettes rassurantes, des surfaces à griffer sous toutes leurs formes et des défis stimulants pour les garder heureux et actifs.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_wkQdxU"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "multiple_images_with_text_DWMTq8": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_HGJ8Br": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Combinez plusieurs Pawsy-MEOWTIX™",
-            "content": "<p>Associez plusieurs Pawsy-MEOWTIX™ grâce à leurs côtés magnétiques pour offrir à votre chat un espace de jeu encore plus dynamique. </p><p>Il pourra explorer, traquer et s’amuser sans limites. Chaque jour devient une nouvelle aventure, parfaitement adaptée à ses instincts et à sa soif de découvertes.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_HGJ8Br"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "multiple_images_with_text_hAP7ax": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_E6pMMt": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Un instant privilégié avec votre chat",
-            "content": "<p>Ce jouet n’est pas qu’un simple objet, c’est une véritable opportunité de renforcer la connexion unique que vous partagez avec votre compagnon. </p><p>En le voyant s’amuser, s’épanouir et profiter pleinement, vous ressentirez une immense satisfaction. </p><p>Vous serez cette personne qui a su dénicher ce qui rend votre chat heureux, apaisé et comblé.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_E6pMMt"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "custom_html_KCtkMm": {
@@ -685,13 +631,11 @@
     "custom_liquid_wQ7Yqi",
     "scrolling_text_JpaiDy",
     "media_with_text_pdHfEP",
+    "slideshow_AtEyNH",
+    "before_after_image_4JFaPD",
     "custom_liquid_btrkcc",
     "scrolling_text_tKtFcW",
     "custom_html_zhTgtC",
-    "multiple_images_with_text_dKYtrR",
-    "multiple_images_with_text_b8YQkc",
-    "multiple_images_with_text_DWMTq8",
-    "multiple_images_with_text_hAP7ax",
     "custom_html_KCtkMm",
     "multiple_images_with_text_zcC6T4",
     "custom_html_MTxtWR",
