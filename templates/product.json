@@ -208,7 +208,7 @@
             "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "poster_image": "shopify://shop_images/Capture_d_ecran_2025-04-22_163818.png",
             "autoplay": true,
-            "media_width": 50,
+            "media_width": 55,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
