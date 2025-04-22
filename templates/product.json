@@ -410,6 +410,100 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "text_with_icons_VRKhzR": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_ERTrCV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/795b048b-581c-497a-9cd9-889a592f84b7_removalai_preview.png",
+            "mobile_icon_width": 120,
+            "icon_width": 120,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_fLP4Hz": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_eGqp6X": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ERTrCV",
+        "item_fLP4Hz",
+        "item_eGqp6X"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#F2F2F2",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_UG4hrr": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_GkVnb9": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_GkVnb9"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
     "scrolling_text_tKtFcW": {
       "type": "scrolling-text",
       "disabled": true,
@@ -450,39 +544,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "media_with_text_UG4hrr": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_GkVnb9": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_GkVnb9"
-      ],
-      "settings": {
-        "full_width": false,
-        "spacing": "none"
       }
     },
     "custom_html_MTxtWR": {
@@ -640,10 +701,11 @@
     "media_with_text_pdHfEP",
     "slideshow_AtEyNH",
     "before_after_image_4JFaPD",
+    "text_with_icons_VRKhzR",
+    "media_with_text_UG4hrr",
     "scrolling_text_tKtFcW",
     "custom_html_zhTgtC",
     "custom_html_KCtkMm",
-    "media_with_text_UG4hrr",
     "custom_html_MTxtWR",
     "scrolling_text_ADnEYK",
     "shop_the_look_dqW8YA",
