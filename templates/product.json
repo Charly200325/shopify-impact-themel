@@ -452,33 +452,37 @@
         "text_color": ""
       }
     },
-    "multiple_images_with_text_zcC6T4": {
-      "type": "multiple-images-with-text",
+    "media_with_text_UG4hrr": {
+      "type": "media-with-text",
       "blocks": {
-        "item_iMHFnC": {
-          "type": "item",
+        "image_GkVnb9": {
+          "type": "image",
           "settings": {
-            "image_rotation_degrees": -2,
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
             "subheading": "",
-            "title": "Sauvez vos meubles et votre canapé",
-            "content": "<p>Gratter ses griffes est une pratique inné pour l'équilibre psychique de votre chat. En ayant Pawsy-<strong>MEOWTIX™ dans la pièce, votre minou ne s'attaquera plus à vos meubles et à votre canapé . </strong></p>",
-            "button_url": "",
-            "button_text": ""
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "item_iMHFnC"
+        "image_GkVnb9"
       ],
       "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "full_width": false,
+        "spacing": "none"
       }
     },
     "custom_html_MTxtWR": {
@@ -496,6 +500,7 @@
     },
     "scrolling_text_ADnEYK": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "🎖️ 30 JOURS DE GARANTIE   🚚 LIVRAISON OFFERTE 📞  UN SUPPORT DÉDIÉ, 24H/24, 7J/7",
@@ -524,6 +529,7 @@
       "block_order": [
         "product_PzC83d"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -637,7 +643,7 @@
     "scrolling_text_tKtFcW",
     "custom_html_zhTgtC",
     "custom_html_KCtkMm",
-    "multiple_images_with_text_zcC6T4",
+    "media_with_text_UG4hrr",
     "custom_html_MTxtWR",
     "scrolling_text_ADnEYK",
     "shop_the_look_dqW8YA",
