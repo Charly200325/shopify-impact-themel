@@ -225,24 +225,13 @@
             "button_background": "",
             "button_text_color": ""
           }
-        }
-      },
-      "block_order": [
-        "video_imNKeG"
-      ],
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
-      }
-    },
-    "media_with_text_hzecbg": {
-      "type": "media-with-text",
-      "blocks": {
-        "video_YXFxxc": {
+        },
+        "video_66QYVR": {
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/0422 (1)(3).mp4",
             "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "poster_image": "shopify://shop_images/Capture_d_ecran_2025-04-22_163818.png",
             "autoplay": true,
             "media_width": 50,
             "media_position": "end",
@@ -251,8 +240,8 @@
             "icon_width": 48,
             "subheading": "ULTRA-ABSORBANT & SÉCHAGE RAPIDE",
             "title": "UNE SALLE DE BAIN TOUJOURS PROPORE ET SECHE",
-            "content": "<p>Un velours doux au toucher, qui absorbe l’eau en un instant et sèche tout aussi vite. Fini les flaques, les traces et l’humidité sous les pieds. Grâce à sa conception intelligente et à ses propriétés antibactériennes, le rêve d’une salle de bain toujours propre et sèche devient enfin réalité — même dans les foyers les plus animés.<br/><br/></p>",
-            "link_text": "VOIR LES COLORIS",
+            "content": "<p>Un velours doux au toucher, qui absorbe l’eau en un instant et sèche tout aussi vite. Fini les flaques, les traces et l’humidité sous les pieds. Grâce à sa conception intelligente et à ses propriétés antibactériennes, le rêve d’une salle de bain toujours propre et sèche devient enfin réalité — même dans les foyers les plus animés.</p>",
+            "link_text": "VOIR LES COLORIS DISPNONIBLE",
             "link_url": "shopify://products/3d-non-slip-bathroom-mat-bath-mats-absorbent-doormat-carpet-cobblestone-embossed-door-floor-mats-machine-washable-quick-drying-104281637131-bl80l",
             "background": "#000000",
             "background_gradient": "",
@@ -261,31 +250,20 @@
             "button_background": "",
             "button_text_color": ""
           }
-        }
-      },
-      "block_order": [
-        "video_YXFxxc"
-      ],
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
-      }
-    },
-    "media_with_text_djipFV": {
-      "type": "media-with-text",
-      "blocks": {
-        "video_xTeGiF": {
+        },
+        "video_QVrmKR": {
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/14fb69a0e9404140bcdca9e3fb094033.HD-1080p-3.3Mbps-39670369.mp4",
             "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "poster_image": "shopify://shop_images/Capture_d_ecran_2025-04-22_163818.png",
             "autoplay": true,
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "LA NOUVELLE QUALITÉ 2025 EST DISPONIBLE",
+            "subheading": "ULTRA-ABSORBANT & SÉCHAGE RAPIDE",
             "title": "RESSENTEZ LE CONFORT D'UN TAPIS DE BAIN ULTRA DOUX & MOELLEUX",
             "content": "<p>Imaginez la sensation de vos pieds plongés chaque jour dans un tapis d'une douceur et d'un moelleux incomparables, où chaque galet épouse parfaitement la forme de votre pied. Un véritable moment de plaisir et de détente, comme un massage quotidien, à chaque pas dans votre salle de bain.</p>",
             "link_text": "DÉCOUVRIR LA NOUVELLE QUALITÉ",
@@ -297,10 +275,35 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_aDtYw3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/tapis-gris-clair-06_1.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
-        "video_xTeGiF"
+        "video_imNKeG",
+        "video_66QYVR",
+        "video_QVrmKR",
+        "image_aDtYw3"
       ],
       "settings": {
         "full_width": true,
@@ -656,8 +659,6 @@
     "custom_liquid_wQ7Yqi",
     "scrolling_text_JpaiDy",
     "media_with_text_pdHfEP",
-    "media_with_text_hzecbg",
-    "media_with_text_djipFV",
     "custom_liquid_btrkcc",
     "scrolling_text_tKtFcW",
     "custom_html_zhTgtC",
