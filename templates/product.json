@@ -506,18 +506,6 @@
         "spacing": "none"
       }
     },
-    "custom_html_6FmHga": {
-      "type": "custom-html",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<p style=\"text-align: center\">Write or copy/paste HTML code</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "scrolling_text_tKtFcW": {
       "type": "scrolling-text",
       "disabled": true,
@@ -717,7 +705,6 @@
     "before_after_image_4JFaPD",
     "text_with_icons_VRKhzR",
     "media_with_text_UG4hrr",
-    "custom_html_6FmHga",
     "scrolling_text_tKtFcW",
     "custom_html_zhTgtC",
     "custom_html_KCtkMm",
